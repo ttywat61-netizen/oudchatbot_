@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+haystack-ai==1.1.0
+sentence-transformers
+transformers
+torch
+python-multipart
