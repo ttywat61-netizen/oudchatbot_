@@ -1,0 +1,40 @@
+{
+  "user_638161": {
+    "user_name": "friend",
+    "learning_topic": "play_oud",
+    "last_topic": "structure",
+    "awaiting_song_choice": false,
+    "awaiting_video": false,
+    "awaiting_oud_buy_offer": true,
+    "last_intent": "show_oud_structure",
+    "video_watched": true,
+    "awaiting_string_audio": true,
+    "awaiting_name": false,
+    "awaiting_picture": false,
+    "awaiting_oud_recommendation": false,
+    "awaiting_professional_oud": false,
+    "awaiting_beginner_oud": true
+  },
+  "web_user_1766384162778": {
+    "user_name": "Caminie",
+    "learning_topic": "play_oud",
+    "last_topic": "video",
+    "awaiting_song_choice": false,
+    "awaiting_video": true,
+    "awaiting_oud_buy_offer": false,
+    "last_intent": "question"
+  },
+  "user_335578": {
+    "user_name": "friend",
+    "learning_topic": null,
+    "last_topic": "recommendation",
+    "awaiting_song_choice": true,
+    "awaiting_video": false,
+    "awaiting_oud_buy_offer": false,
+    "last_intent": "choose_play_oud",
+    "awaiting_name": false,
+    "awaiting_oud_recommendation": true,
+    "awaiting_professional_oud": false,
+    "video_watched": true
+  }
+}
